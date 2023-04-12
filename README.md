@@ -16,3 +16,6 @@
 - npm install
 - npm run dev
 - php artisan serve
+
+## Warning
+Pada bagian category masih terdapat eror
